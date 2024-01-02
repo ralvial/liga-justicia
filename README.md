@@ -8,7 +8,10 @@ Pueden hacer lo que quieran...
 
 
 ### Actualizado desde GItHub
-Este es un mensaje editado completamente desde GitHub !!!!
+Este es un mensaje editado completamente desde GitHub
 
 ### Actualizado desde GitHub 2
 Otro cambio
+
+### Prueba definicion estrategia de pull
+Se incorpora en archivo de config: pull.ff only
